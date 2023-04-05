@@ -7,8 +7,9 @@ Hello, my name is **Merrick** and I am a student at *UC San Diego*.
 I like Einstein's quote about stupidity because its very applicable to programing
 > Two things are infinite:
 > The Universe and Human Stupidity;
-> And I'm not sure about the universe.
-> - Albert Einstein
+> And I'm not sure about the universe. 
+>
+> Albert Einstein
 
 I think quines are pretty cool. 
 Here is an example of one in python:
@@ -20,7 +21,7 @@ As you can tell by the picture at top, I like [Elephants.](https://en.wikipedia.
 
 [Here](#picture-of-an-elephant) is a section link to that photo.
 
-[Here](/README.md) is a relative link to my readme.
+[Here](README.md) is a relative link to my readme.
 
 Some facts about me
 * My first programming language was Java.
