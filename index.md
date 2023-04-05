@@ -21,7 +21,7 @@ As you can tell by the picture at top, I like [Elephants.](https://en.wikipedia.
 
 [Here](#picture-of-an-elephant) is a section link to that photo.
 
-[Here](README.html) is a relative link to my readme.
+[Here](README.md) is a relative link to my readme.
 
 Some facts about me
 * My first programming language was Java.
