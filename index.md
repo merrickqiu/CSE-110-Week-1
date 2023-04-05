@@ -18,9 +18,9 @@ _='_=%r;print (_%%_)';print (_%_)
 
 As you can tell by the picture at top, I like [Elephants.](https://en.wikipedia.org/wiki/Elephant)
 
-[Here](#picture-of-an-elephant) is a link to that photo.
+[Here](#picture-of-an-elephant) is a section link to that photo.
 
-[Here](/README.md) is the link to my readme.
+[Here](/README.md) is a relative link to my readme.
 
 Some facts about me
 * My first programming language was Java.
@@ -40,5 +40,5 @@ I am awesome because
 - [x] I am smart.
 - [x] I am strong.
 - [x] I have finished this lab!
-- [] I have a girlfriend.
+- [ ] I have a girlfriend.
 
