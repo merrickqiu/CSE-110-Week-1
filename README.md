@@ -1,1 +1,1 @@
-# CSE-110-Week-1
+Merrick's User Page
